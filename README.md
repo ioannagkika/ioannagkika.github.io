@@ -2,4 +2,4 @@
 
 Template taken from: 
 
-<p><a href="https://bootstrap4resume.deployonfriday.net/" target="_blank"></a></p>
+[bootstrap4resume](https://github.com/DrSavvina/Bootstrap4Resume/blob/master/).
