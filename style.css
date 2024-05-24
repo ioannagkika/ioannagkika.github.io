@@ -152,7 +152,7 @@ button:active {
 
   .resume-section {
     padding-top: 5rem !important;
-    /* min-height: 100vh; */
+    min-height: 50vh;
   }
 
   .linkedin-link {
